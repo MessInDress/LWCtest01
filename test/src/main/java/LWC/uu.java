@@ -7,4 +7,6 @@ package LWC;
  */
 public class uu {
     private String name;
+    private String nse;
+
 }
